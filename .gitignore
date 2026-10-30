@@ -1,0 +1,35 @@
+# Unreal Engine generated files (including plugins)
+**/Binaries/
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+**/Build/**/FileOpenOrder/
+
+# Local IDE files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.code-workspace
+
+# Logs, temporary files and local credentials
+*.log
+*.tmp
+*.bak
+__pycache__/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Machine-specific launcher
+/Test.bat
